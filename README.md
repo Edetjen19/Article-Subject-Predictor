@@ -1,5 +1,3 @@
-# Article-Subject-Predictor
-
 # Predicting Subjects From Articles Supervised
 Written by Eric Detjen  
 
