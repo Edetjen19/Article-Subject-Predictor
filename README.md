@@ -41,9 +41,9 @@ experiment = project.log_experiment(
 ```
 
 ### Read and Adjust Data
-Read in the data  
+Read the data  
 
-we will est the accuracy by comparing using 80% of the train data to train and then for the last 20% removing the subjects and comparing the models results on that against the true subject data for the same 20%
+we will test the accuracy by comparing using 80% of the train data to train and then for the last 20% removing the subjects and comparing the models results on that against the true subject data for the same 20%
 
 
 ```python
@@ -62,7 +62,7 @@ train_data, test_data = train_test_split(data, test_size=0.2, random_state=42)
 
 ### Feature extraction
 
-We extract features using TF-IDF for article abstracts and titles, and also extract date features.
+We extract features using TF-IDF for article abstracts and titles and also extract date features.
 
 **The TF-IDF is key here since it will yield a higher rating for words that are frequent in the specific text it is analyzing yet rare across all documents. This allows the model to focus on the words that are important and not common words like “and” or “the”.**
 
@@ -120,7 +120,7 @@ y_test = label_encoder.transform([article['subject'] for article in test_data])
 ### Model Training
 I initialize and train the Random Forest Classifier.
 
-I chose to use the random forst classifier because it is a very robust model for the supervized learning that is not prone to overfitting and is very good at handling the hgihly dimensional categorical data that we have. It also it very interpretable which allows us to log meaningful metrics and parameters to Rubicon.
+I chose to use the random forest classifier because it is a very robust model for supervised learning that is not prone to overfitting and is very good at handling the highly dimensional categorical data that we have. It is also is very interpretable which allows us to log meaningful metrics and parameters to Rubicon.
 
 
 ```python
@@ -172,7 +172,7 @@ for param_name in parameters_to_log:
 ```
 
 ### Saving
-I use the joblib dump to save the model so it does not have to be trained repeatadly. This file was over the github size limits so it is unfortunaly not in the repo. The model only takes about 6 minutes to train locally though.
+I use the joblib dump to save the model so it does not have to be trained repeatedly. This file was over the GitHub size limits so it is unfortunately not in the repo. The model only takes about 6 minutes to train locally though.
 
 
 ```python
@@ -181,9 +181,9 @@ dump(rf_classifier, model_path)
 ```
 
 ### Model Evaluation
-here we evaluate the perfperformance on the test data set.
+here we evaluate the performance of the test data set.
 
-Again, we test the accuracy by comparing using 80% of the train data to train and then for the last 20% removing the subjects and comparing the models results on that against the true subject data for the same 20%
+Again, we test the accuracy by comparing using 80% of the train data to train and then for the last 20% removing the subjects and comparing the model results on that against the true subject data for the same 20%
 
 
 ```python
@@ -215,7 +215,7 @@ experiment.log_metric(name="Accuracy_Score_5", value=accuracy)
 
 ### Results Summary
 I display the results from the tests here. It shows which subjects it messes up on most and for each of those, which subjects it mistakenly labels it as.   
-This is key for giving meaningful insight into what is causing the confusions.
+This is key for giving meaningful insight into what is causing the confusion.
 
 
 ```python
