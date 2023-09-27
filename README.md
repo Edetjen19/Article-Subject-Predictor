@@ -3,7 +3,7 @@ Written and developed by Eric Detjen
 
 This repository contains a machine-learning model that classifies articles into different subjects. The model uses article meta-data sourced from arXiv's condensed matter physics articles(http://www.arxiv.org/). The project leverages a variety of techniques, including TF-IDF for text feature extraction, date feature extraction, and Random Forest Classifier for model training. Experiment logging and tracking are handled using the Capital One open-source framework, Rubicon-ML.
 
-For ease of viewing, I have included the model.ipynb file in the markdown. If desired, this and all other files are included in this repo.
+For ease of viewing, I have included the model.ipynb file in the README here. If desired, this and all other files are available in this repo.
 
 ## Table of Contents
 
