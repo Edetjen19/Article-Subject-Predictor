@@ -1,5 +1,5 @@
 # Predicting Subjects From Articles Supervised
-Written by Eric Detjen  
+Written and developed by Eric Detjen  
 
 This repository contains a machine-learning model that classifies articles into different subjects. The model uses article meta-data sourced from arXiv's condensed matter physics articles(http://www.arxiv.org/). The project leverages a variety of techniques, including TF-IDF for text feature extraction, date feature extraction, and Random Forest Classifier for model training. Experiment logging and tracking are handled using the Capital One open-source framework, Rubicon-ML.
 
