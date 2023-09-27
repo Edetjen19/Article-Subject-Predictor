@@ -1,6 +1,20 @@
 # Predicting Subjects From Articles Supervised
 Written by Eric Detjen  
 
+This repository contains a machine-learning model that classifies articles into different subjects. The model uses article meta-data sourced from arXiv's condensed matter physics articles(http://www.arxiv.org/). The project leverages a variety of techniques, including TF-IDF for text feature extraction, date feature extraction, and Random Forest Classifier for model training. Experiment logging and tracking are handled using the Capital One open-source framework, Rubicon-ML.
+
+## Table of Contents
+
+1. [Initialize Rubicon and Project](#initialize-rubicon-and-project)
+2. [Read and Adjust Data](#read-and-adjust-data)
+3. [Feature Extraction](#feature-extraction)
+4. [Data Preparation](#data-preparation)
+5. [Model Training](#model-training)
+6. [Logging](#logging)
+7. [Saving](#saving)
+8. [Model Evaluation](#model-evaluation)
+9. [Results Summary](#results-summary)
+
 
 ```python
 ##imports
@@ -60,7 +74,7 @@ train_data, test_data = train_test_split(data, test_size=0.2, random_state=42)
 
 ```
 
-### Feature extraction
+### Feature Extraction
 
 We extract features using TF-IDF for article abstracts and titles and also extract date features.
 
