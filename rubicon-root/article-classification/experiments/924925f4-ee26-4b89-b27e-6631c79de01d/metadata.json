@@ -1,0 +1,1 @@
+{"project_name": "Article Classification", "id": "924925f4-ee26-4b89-b27e-6631c79de01d", "name": null, "description": null, "model_name": "Random Forest", "branch_name": null, "commit_hash": null, "training_metadata": null, "tags": ["text classification", "NLP"], "created_at": {"_type": "datetime", "value": "2023-09-26 23:40:17.566587"}}

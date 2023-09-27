@@ -1,0 +1,148 @@
+date,subject,article_count
+2014-05-01,superconductivity,132
+2014-05-01,statistical mechanics,183
+2014-05-01,materials science,227
+2014-05-01,soft condensed matter,85
+2014-05-01,quantum physics,32
+2014-05-01,strongly correlated electrons,166
+2014-05-01,mesoscale and nanoscale physics,285
+2014-05-01,quantum gases,58
+2014-05-01,physics - physics and society,2
+2014-05-01,high energy physics - theory,7
+2014-05-01,other condensed matter,3
+2014-05-01,disordered systems and neural networks,9
+2014-06-01,statistical mechanics,197
+2014-06-01,soft condensed matter,98
+2014-06-01,materials science,274
+2014-06-01,mesoscale and nanoscale physics,282
+2014-06-01,strongly correlated electrons,201
+2014-06-01,superconductivity,144
+2014-06-01,quantum physics,35
+2014-06-01,disordered systems and neural networks,15
+2014-06-01,quantum gases,57
+2014-06-01,nuclear theory,1
+2014-06-01,high energy physics - theory,5
+2014-06-01,quantitative biology - populations and evolution,1
+2014-07-01,materials science,263
+2014-07-01,soft condensed matter,125
+2014-07-01,mesoscale and nanoscale physics,338
+2014-07-01,superconductivity,152
+2014-07-01,statistical mechanics,230
+2014-07-01,quantum gases,80
+2014-07-01,strongly correlated electrons,206
+2014-07-01,quantum physics,32
+2014-07-01,disordered systems and neural networks,12
+2014-07-01,high energy physics - theory,6
+2014-07-01,other condensed matter,5
+2014-07-01,physics - physics and society,2
+2014-08-01,strongly correlated electrons,203
+2014-08-01,statistical mechanics,167
+2014-08-01,materials science,221
+2014-08-01,superconductivity,134
+2014-08-01,soft condensed matter,89
+2014-08-01,quantum gases,60
+2014-08-01,mesoscale and nanoscale physics,287
+2014-08-01,disordered systems and neural networks,12
+2014-08-01,quantum physics,25
+2014-08-01,other condensed matter,3
+2014-08-01,high energy physics - theory,2
+2014-08-01,physics - physics and society,1
+2014-09-01,materials science,284
+2014-09-01,strongly correlated electrons,187
+2014-09-01,mesoscale and nanoscale physics,292
+2014-09-01,quantum physics,31
+2014-09-01,statistical mechanics,219
+2014-09-01,quantum gases,69
+2014-09-01,soft condensed matter,111
+2014-09-01,superconductivity,122
+2014-09-01,disordered systems and neural networks,10
+2014-09-01,other condensed matter,3
+2014-09-01,high energy physics - theory,4
+2014-09-01,physics - physics and society,4
+2014-09-01,physics - atomic physics,1
+2014-10-01,high energy physics - theory,7
+2014-10-01,materials science,275
+2014-10-01,soft condensed matter,123
+2014-10-01,strongly correlated electrons,212
+2014-10-01,mesoscale and nanoscale physics,285
+2014-10-01,superconductivity,149
+2014-10-01,statistical mechanics,205
+2014-10-01,disordered systems and neural networks,12
+2014-10-01,quantum gases,84
+2014-10-01,quantum physics,27
+2014-10-01,physics - physics and society,1
+2014-10-01,other condensed matter,2
+2014-11-01,superconductivity,111
+2014-11-01,mesoscale and nanoscale physics,292
+2014-11-01,materials science,231
+2014-11-01,disordered systems and neural networks,13
+2014-11-01,quantum gases,79
+2014-11-01,statistical mechanics,162
+2014-11-01,strongly correlated electrons,188
+2014-11-01,soft condensed matter,93
+2014-11-01,nuclear theory,1
+2014-11-01,quantum physics,33
+2014-11-01,high energy physics - theory,5
+2014-11-01,other condensed matter,3
+2014-11-01,physics - physics and society,2
+2014-12-01,materials science,257
+2014-12-01,soft condensed matter,127
+2014-12-01,mesoscale and nanoscale physics,302
+2014-12-01,quantum gases,61
+2014-12-01,superconductivity,141
+2014-12-01,strongly correlated electrons,178
+2014-12-01,statistical mechanics,239
+2014-12-01,disordered systems and neural networks,16
+2014-12-01,quantum physics,28
+2014-12-01,other condensed matter,4
+2014-12-01,high energy physics - theory,8
+2014-12-01,quantitative biology - populations and evolution,1
+2015-01-01,strongly correlated electrons,166
+2015-01-01,quantum physics,32
+2015-01-01,statistical mechanics,215
+2015-01-01,mesoscale and nanoscale physics,236
+2015-01-01,superconductivity,116
+2015-01-01,materials science,270
+2015-01-01,quantum gases,52
+2015-01-01,soft condensed matter,96
+2015-01-01,high energy physics - theory,5
+2015-01-01,disordered systems and neural networks,9
+2015-01-01,physics - physics and society,1
+2015-01-01,other condensed matter,1
+2015-01-01,physics - optics,1
+2015-02-01,mesoscale and nanoscale physics,304
+2015-02-01,statistical mechanics,189
+2015-02-01,materials science,290
+2015-02-01,soft condensed matter,90
+2015-02-01,superconductivity,127
+2015-02-01,quantum gases,70
+2015-02-01,strongly correlated electrons,161
+2015-02-01,physics - physics and society,2
+2015-02-01,quantum physics,30
+2015-02-01,disordered systems and neural networks,6
+2015-02-01,high energy physics - theory,8
+2015-02-01,high energy physics - lattice,1
+2015-02-01,other condensed matter,1
+2015-03-01,materials science,310
+2015-03-01,mesoscale and nanoscale physics,348
+2015-03-01,statistical mechanics,202
+2015-03-01,superconductivity,138
+2015-03-01,quantum physics,32
+2015-03-01,soft condensed matter,128
+2015-03-01,disordered systems and neural networks,7
+2015-03-01,quantum gases,71
+2015-03-01,strongly correlated electrons,194
+2015-03-01,physics - physics and society,3
+2015-03-01,high energy physics - theory,4
+2015-03-01,other condensed matter,1
+2015-04-01,materials science,146
+2015-04-01,statistical mechanics,82
+2015-04-01,superconductivity,62
+2015-04-01,mesoscale and nanoscale physics,175
+2015-04-01,strongly correlated electrons,91
+2015-04-01,soft condensed matter,91
+2015-04-01,quantum physics,18
+2015-04-01,high energy physics - theory,3
+2015-04-01,quantum gases,35
+2015-04-01,other condensed matter,1
+2015-04-01,disordered systems and neural networks,1

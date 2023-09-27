@@ -1,0 +1,38 @@
+[
+    {
+        "abstract": "We study the two-particle wave function of paired atoms in a Fermi gas with tunable interaction strengths controlled by Feshbach resonance. The Cooper pair wave function is examined for its bosonic characters, which is quantified by the correction of Bose enhancement factor associated with the creation and annihilation composite particle operators. An example is given for a three-dimensional uniform gas. Two definitions of Cooper pair wave function are examined. One of which is chosen to reflect the off-diagonal long range order (ODLRO). Another one corresponds to a pair projection of a BCS state. On the side with negative scattering length, we found that paired atoms described by ODLRO are more bosonic than the pair projected definition. It is also found that at $(k_F a)^{-1} \\ge 1$, both definitions give similar results, where more than 90% of the atoms occupy the corresponding molecular condensates.",
+        "date": "2007-03-31T00:00:00.000Z",
+        "subject": "mesoscale and nanoscale physics",
+        "title": "Bosonic characters of atomic Cooper pairs across resonance"
+    },
+    {
+        "abstract": "A general formulation was developed to represent material models for applications in dynamic loading. Numerical methods were devised to calculate response to shock and ramp compression, and ramp decompression, generalizing previous solutions for scalar equations of state. The numerical methods were found to be flexible and robust, and matched analytic results to a high accuracy. The basic ramp and shock solution methods were coupled to solve for composite deformation paths, such as shock-induced impacts, and shock interactions with a planar interface between different materials. These calculations capture much of the physics of typical material dynamics experiments, without requiring spatially-resolving simulations. Example calculations were made of loading histories in metals, illustrating the effects of plastic work on the temperatures induced in quasi-isentropic and shock-release experiments, and the effect of a phase transition.",
+        "date": "2007-03-31T00:00:00.000Z",
+        "subject": "materials science",
+        "title": "Numerical solution of shock and ramp compression for general material properties"
+    },
+    {
+        "abstract": "We present recent advances in understanding of the ground and excited states of the electron-phonon coupled systems obtained by novel methods of Diagrammatic Monte Carlo and Stochastic Optimization, which enable the approximation-free calculation of Matsubara Green function in imaginary times and perform unbiased analytic continuation to real frequencies. We present exact numeric results on the ground state properties, Lehmann spectral function and optical conductivity of different strongly correlated systems: Frohlich polaron, Rashba-Pekar exciton-polaron, pseudo Jahn-Teller polaron, exciton, and interacting with phonons hole in the t-J model.",
+        "date": "2007-04-02T00:00:00.000Z",
+        "subject": "strongly correlated electrons",
+        "title": "Spectroscopic Properties of Polarons in Strongly Correlated Systems by Exact Diagrammatic Monte Carlo Method"
+    },
+    {
+        "abstract": "We describe a peculiar fine structure acquired by the in-plane optical phonon at the Gamma-point in graphene when it is brought into resonance with one of the inter-Landau-level transitions in this material. The effect is most pronounced when this lattice mode (associated with the G-band in graphene Raman spectrum) is in resonance with inter-Landau-level transitions 0 -> (+,1) and (-,1) -> 0, at a magnetic field B_0 ~ 30 T. It can be used to measure the strength of the electron-phonon coupling directly, and its filling-factor dependence can be used experimentally to detect circularly polarized lattice modes.",
+        "date": "2007-04-02T00:00:00.000Z",
+        "subject": "mesoscale and nanoscale physics",
+        "title": "Filling-Factor-Dependent Magnetophonon Resonance in Graphene"
+    },
+    {
+        "abstract": "We investigate the effect of tuning the phonon energy on the correlation effects in models of electron-phonon interactions using DMFT. In the regime where itinerant electrons, instantaneous electron-phonon driven correlations and static distortions compete on similar energy scales, we find several interesting results including (1) A crossover from band to Mott behavior in the spectral function, leading to hybrid band/Mott features in the spectral function for phonon frequencies slightly larger than the band width. (2) Since the optical conductivity depends sensitively on the form of the spectral function, we show that such a regime should be observable through the low frequency form of the optical conductivity. (3) The resistivity has a double kondo peak arrangement.",
+        "date": "2007-03-31T00:00:00.000Z",
+        "subject": "strongly correlated electrons",
+        "title": "Tuning correlation effects with electron-phonon interactions"
+    },
+    {
+        "abstract": "We construct a system of nonequilibrium entropy limiters for the lattice Boltzmann methods (LBM). These limiters erase spurious oscillations without blurring of shocks, and do not affect smooth solutions. In general, they do the same work for LBM as flux limiters do for finite differences, finite volumes and finite elements methods, but for LBM the main idea behind the construction of nonequilibrium entropy limiter schemes is to transform a field of a scalar quantity - nonequilibrium entropy. There are two families of limiters: (I)",
+        "date": "Unknown",
+        "subject": "Unknown",
+        "title": "Unknown"
+    }
+]
