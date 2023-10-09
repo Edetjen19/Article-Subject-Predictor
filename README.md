@@ -16,7 +16,7 @@ For ease of viewing, I have included the model.ipynb file in the README here. If
 7. [Saving](#saving)
 8. [Model Evaluation](#model-evaluation)
 9. [Results Summary](#results-summary)
-10. [Accuracy Score: 61.20%](#overall-accuracy-6120)
+10. [Accuracy](#overall-accuracy-6120)
 
 
 
